@@ -10,3 +10,4 @@ Idées de stages de dev. Devra être présenté comme slideshox Reveal.js
 - Génération de graphes neo4j d'un AD et dessin js
 - Dév de velocity templates/thymeleaf pour liquibase et lints
 - Coder/contribuer un nouveau dbDoc pou liquibase, vesion html cinq, responsive, bootstap, ...
+- Créer un plugin gephi (format ```gexf```) pour grapher le contenu d'un AD
