@@ -1,6 +1,6 @@
 # stages-dev
 
-Idées de stages de dev. Devra être présenté comme slideshox Reveal.js
+Idées de stages de dev. Devra être présenté comme slideshow Reveal.js
 
 # Sujets
 
