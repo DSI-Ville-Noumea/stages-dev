@@ -14,3 +14,4 @@ Idées de stages de dev. Devra être présenté comme slideshow Reveal.js
 - pixel art pour des pages 404, 403 artistiques en html5, à la github ou coveralls
 - dev d'un plugin Rundeck pour ftp
 - POC d'un dev de plugin sonarq
+- dev d'un plugin de reporting maven qui crée une page dédiée aux stats de downloads GH
