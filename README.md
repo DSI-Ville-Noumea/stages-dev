@@ -16,3 +16,4 @@ Idées de stages de dev. Devra être présenté comme slideshow Reveal.js
 - POC d'un dev de plugin sonarq : sur les lints schemacrawler
 - dev d'un plugin de reporting maven qui crée une page dédiée aux stats de downloads GH
 - dev d'un plugin de reporting maven site qui fait le rapport sur les versions à jour via versioneye
+- Dév de l'api en java pour travis
