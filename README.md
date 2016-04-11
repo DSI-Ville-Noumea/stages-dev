@@ -17,3 +17,8 @@ Idées de stages de dev. Devra être présenté comme slideshow Reveal.js
 - dev d'un plugin de reporting maven qui crée une page dédiée aux stats de downloads GH
 - dev d'un plugin de reporting maven site qui fait le rapport sur les versions à jour via versioneye
 - Dév de l'api en java pour travis
+- implémenter visualisation schema bdd dans 3d js via plugin schemacrawler, et trouver le bon layer
+- Collaborer  au dev du rapport des lints schemacrawler via 3d js
+- projet mystere ou le stagiaire doit proposer un projet innovant et créatif, en rapport avec l'art numérique, via la programmation
+- démo de http://2ndquadrant.com/en/resources/2uda/
+- Dév d'un écran de visualisation dans DPMMC qui s'appuis sur 3D js
