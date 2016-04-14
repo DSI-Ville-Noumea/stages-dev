@@ -22,3 +22,38 @@ Idées de stages de dev. Devra être présenté comme slideshow Reveal.js
 - projet mystere ou le stagiaire doit proposer un projet innovant et créatif, en rapport avec l'art numérique, via la programmation
 - démo de http://2ndquadrant.com/en/resources/2uda/
 - Dév d'un écran de visualisation dans DPMMC qui s'appuis sur 3D js
+- 
+# Comment candidater
+
+- Présenter un cv
+- Présenter une lettre de motivation : soit au format conventionnel lettre soit au format présentation (html de préférence, disp dans le cloud). Une nette préférence pour le format présentation
+- Présenter les objectifs personnels, le parcours, les motivations, vos goûts éventuels pour votre technologie de prédilection
+- Présenter les compétences actuelles
+- Présenter les réalisations s'il y en a
+- Projets personnels de développement ou lié à la création (quelque domaine que ce soit : artistique, informatique)
+- Technologies dans lequelles vous souhaitez progresser
+- Objectif du stage : qu'attendez-vous de ce stage
+ 
+# Rapport de stage
+
+- Rapport écrit et versionné sur github, via pandoc : le document final sera compilé en pdf via LaTeX
+- Présentation : elle sera développée depuis un code source, sur github via Reveal.js, impress.js ou tout autre framework de présentation web
+
+# Valeurs/Technologies
+
+- L'ensemble des logiciels utilisés est open source
+- La station de travail (un PC) sera une machine linux/unix à installer par le stagiaire. Il a la discrétion de la distribution/bureau sur laquelle il souhaite travailler
+- Tout travail reposera sur un code source qui sera systématiquement versionné au quotidien sur github
+- La rédaction du rapport/présentation sera réalisé en continu afin de disposer d'un support tout au long du stage
+
+# Lectures éventuelles en prérequis
+
+- http://www.infoq.com/minibooks/scrum-xp-from-the-trenches-2
+
+# Les attendus
+
+Passion du développement
+Créativité
+Autonomie
+Ingéniosité
+Esprit d'équipe et implication
