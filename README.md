@@ -22,7 +22,8 @@ Idées de stages de dev. Devra être présenté comme slideshow Reveal.js
 - projet mystere ou le stagiaire doit proposer un projet innovant et créatif, en rapport avec l'art numérique, via la programmation
 - démo de http://2ndquadrant.com/en/resources/2uda/
 - Dév d'un écran de visualisation dans DPMMC qui s'appuis sur 3D js
-- 
+
+
 # Comment candidater
 
 - Présenter un cv
