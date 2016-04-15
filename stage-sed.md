@@ -36,7 +36,7 @@ controls: true
 
 
 * L'ensemble des logiciels utilisés est open source
-* La station de travail (un PC) sera une machine linux/unix à installer par le stagiaire. Il a la discrétion de la distribution/bureau sur laquelle il souhaite travailler
+* La station de travail (un PC) sera une machine linux/unix à installer par le stagiaire. Il a la discrétion de la distribution sur laquelle il souhaite travailler
 * Tout travail reposera sur un code source qui sera systématiquement versionné, au quotidien, sur github
 
 --
@@ -75,13 +75,14 @@ controls: true
 # Rapport de stage
 ## Les documents à produire en fin de stage
 
-* Le code releasé sur une repo de notre DSI : https://github.com/DSI-Ville-Noumea
-* Rapport écrit et versionné sur github, via pandoc : le document final sera compilé en pdf via LaTeX
-* Présentation : elle sera développée depuis un code source, sur github via Reveal.js, impress.js ou tout autre framework de présentation web responsive
+* Le code releasé sur le [github de notre organisation](https://github.com/DSI-Ville-Noumea)
+* Rapport écrit et versionné sur github, via [pandoc](http://pandoc.org/) : le document final sera compilé en pdf via LaTeX
+* Présentation : elle sera développée depuis un code source, sur github via [Reveal.js](https://github.com/hakimel/reveal.js/), [impress.js](https://github.com/impress/impress.js) ou tout autre framework de présentation web responsive
 
 --
 # Candidater
 ## Le CV
+
 * Présenter un cv : au format pdf, ou pointer directement sur votre page LinkedIn renseignée en conséquence
 
 
@@ -89,9 +90,7 @@ controls: true
 # Candidater
 ## Lettre de motivation
 
-Présenter :
-
-* Format conventionnel lettre soit au format présentation (html de préférence, dans le cloud). Une nette préférence pour le format présentation et son originalité
+* Format conventionnel lettre, ou au format présentation (html de préférence, dans le cloud). Une nette préférence pour le format présentation et son originalité
 * Objectifs personnels, le parcours, les motivations, vos goûts éventuels pour votre technologie de prédilection
 * Présenter les compétences actuelles
 * Les réalisations s'il y en a
@@ -104,8 +103,14 @@ Présenter :
 * Technologies dans lequelles vous souhaitez progresser et pourquoi
 * Objectif du stage : qu'attendez-vous de ce stage
 * Motivation pour candidater sur un sujet particulier
+
+--
+# Candidater
+## Lettre de motivation
+
 * Un projet de développement personnel en lequel vous croyez et que vous souhaitez fortement voir se concrétiser
 * Préciser ce que vous attendez de ce stage
+* L'élément qui permettra de déterminer, selon vous, que le stage est un succès
 
 --
 # Dossier
@@ -131,7 +136,7 @@ Présenter :
 --
 # packaging chocolately
 
-* Créer le package d'installation pour schemacrawler
+Créer le package d'installation pour schemacrawler.
 
 --
 # R
@@ -145,25 +150,17 @@ Présenter :
 # thymeleaf, D3.js
 ## Lint bases de données
 
-Au sein d'une équipe constitutée, contribuer au développement de templates de rapport de qualité de base de données via
-le moteur de template thymeleaf et le framework javascript D3.js.
-
-Le projet de déroulera en équipe, et sur un logiciel utilisé lors de nos développements.
-
-L'avancée sur ce projet améliorera donc un un outil utilisé au quotidien par nos équipes.
+- Au sein d'une équipe, contribuer au développement de templates de rapport de qualité de base de données
+- L'avancée sur ce projet améliorera un outil utilisé au quotidien par nos équipes
 
 --
 # thymeleaf et D3.js
 ## Graphe structure base de données
 
-Au sein d'une équipe existante, inaugurer le développement de templates de
+- Au sein d'une équipe existante, inaugurer le développement de templates de
 rapport des schemas de base de données via le moteur de template thymeleaf
-et le framework javascript D3.js, au sein de schemacrawler.
-
-Le projet de déroulera en équipe, et sur un logiciel utilisé lors de nos développements.
-L'avancée sur ce projet améliorera donc un un outil utilisé au quotidien par nos équipes.
-
-Il y a à la fois une composante technique et artistique dans le choix du type de graphe choisi.
+et le framework javascript D3.js, au sein de schemacrawler
+- Il y a à la fois une composante technique et artistique dans le choix du type de graphe choisi.
 
 --
 # Liquibase
@@ -175,14 +172,14 @@ ou  toute proposition permettant d'améliorer l'expérience utilisateur.
 --
 # Développement d'un plugin Gephi
 
-- Développer un plugin pour Gephi qui graphe le contenu d'un Active Directory.
+- Développer un plugin pour Gephi qui graphe le contenu d'un Active Directory
 - Jouer avec le plugin développé et travailler le rendu des graphes afin d'en dégager
-une vue pertinente.
+une vue pertinente
 
 --
 # Pixel Art/html
 
-Créer des pages 404, 403 artistiques en html5, à la github ou coveralls, avec des animations.
+Créer des pages 404, 403, ... artistiques en html5, à la github ou coveralls, avec des animations.
 
 --
 # Plugin Rundeck
@@ -199,7 +196,7 @@ Développement d'un plugin custom pour sonarq permettant de disposer d'un tablea
 --
 # Plugin maven
 
-Développement d'un plugin de reporting maven qui crée une page dédiée aux
+Développement d'un plugin de reporting ```maven``` qui crée une page dédiée aux
 statistique de downloads des releases sur github.
 
 --
@@ -227,8 +224,15 @@ de l'information (tableaux de bord, graphes) en se basant sur 3D.js.
 # Métriques d'application
 
 Afin d'améliorer la qualité du monitoring d'une application J2EE, développer une page
-exposant les métriques vitales (utpime, threads, ...) au format json pour consommation
+exposant les métriques vitales (utpime, threads, ...) au format ```json``` pour consommation
 ultérieure par un web service.
+
+--
+# Candidater
+
+Pour candidater, prendre contact par mail avec ```mairie.informatique@ville-noumea.nc``` pour lancer votre candidature.
+
+
 
 
 
