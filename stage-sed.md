@@ -96,7 +96,7 @@ LinkedIn renseignée en conséquence
 ## Lettre de motivation
 
 * Format conventionnel lettre, ou au format présentation (html de préférence,
-dans le cloud). Une nette préférence pour le format présentation et son originalité
+dans le cloud, sur des plateformes comme prezi ou slides.com). Une nette préférence pour le format présentation et son originalité
 * Objectifs personnels, le parcours, les motivations, vos goûts éventuels pour
 votre technologie de prédilection
 * Présenter les compétences actuelles
