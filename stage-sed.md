@@ -61,12 +61,14 @@ controls: true
 # Ce que le stage n'est pas
 
 * Une formalité à subir
-* Un rapport administratif sur ce qu'est le développement, les méthodes ou encore l'organisation de notre service
+* Un rapport administratif sur ce qu'est le développement, les méthodes ou
+encore l'organisation de notre service
 
 --
 # Ce que le stage est
 
-* Une opportunuité de créer du logiciel de manière créative, enrichissante au sein d'une équipe
+* Une opportunuité de créer du logiciel de manière créative, enrichissante au
+sein d'une équipe
 * De (faire) découvrir de nouvelles technologies ou approches
 * La production de quelque chose de personnel et original
 
@@ -76,22 +78,28 @@ controls: true
 ## Les documents à produire en fin de stage
 
 * Le code releasé sur le [github de notre organisation](https://github.com/DSI-Ville-Noumea)
-* Rapport écrit et versionné sur github, via [pandoc](http://pandoc.org/) : le document final sera compilé en pdf via LaTeX
-* Présentation : elle sera développée depuis un code source, sur github via [Reveal.js](https://github.com/hakimel/reveal.js/), [impress.js](https://github.com/impress/impress.js) ou tout autre framework de présentation web responsive
+* Rapport écrit et versionné sur github, via [pandoc](http://pandoc.org/) :
+le document final sera compilé en pdf via LaTeX
+* Présentation : elle sera développée depuis un code source, sur github
+via [Reveal.js](https://github.com/hakimel/reveal.js/), [impress.js](https://github.com/impress/impress.js)
+ou tout autre framework de présentation web responsive
 
 --
 # Candidater
 ## Le CV
 
-* Présenter un cv : au format pdf, ou pointer directement sur votre page LinkedIn renseignée en conséquence
+* Présenter un cv : au format pdf, ou pointer directement sur votre page
+LinkedIn renseignée en conséquence
 
 
 --
 # Candidater
 ## Lettre de motivation
 
-* Format conventionnel lettre, ou au format présentation (html de préférence, dans le cloud). Une nette préférence pour le format présentation et son originalité
-* Objectifs personnels, le parcours, les motivations, vos goûts éventuels pour votre technologie de prédilection
+* Format conventionnel lettre, ou au format présentation (html de préférence,
+dans le cloud). Une nette préférence pour le format présentation et son originalité
+* Objectifs personnels, le parcours, les motivations, vos goûts éventuels pour
+votre technologie de prédilection
 * Présenter les compétences actuelles
 * Les réalisations s'il y en a
 
@@ -99,7 +107,8 @@ controls: true
 # Candidater
 ## Lettre de motivation
 
-* Projets personnels de développement ou liés à la création (quelque domaine que ce soit : artistique, informatique)
+* Projets personnels de développement ou liés à la création (quelque domaine
+que ce soit : artistique, informatique)
 * Technologies dans lesquelles vous souhaitez progresser et pourquoi
 * Objectif du stage : qu'attendez-vous de ce stage
 * Motivation pour candidater sur un sujet particulier
@@ -108,7 +117,8 @@ controls: true
 # Candidater
 ## Lettre de motivation
 
-* Un projet de développement personnel en lequel vous croyez et que vous souhaitez fortement voir se concrétiser
+* Un projet de développement personnel en lequel vous croyez et que vous
+souhaitez fortement voir se concrétiser
 * Préciser ce que vous attendez de ce stage
 * L'élément qui permettra de déterminer, selon vous, que le stage est un succès
 
@@ -150,7 +160,8 @@ Créer le package d'installation pour schemacrawler.
 # thymeleaf, D3.js
 ## Lint bases de données
 
-- Au sein d'une équipe, contribuer au développement de templates de rapport de qualité de base de données
+- Au sein d'une équipe, contribuer au développement de templates de rapport de
+qualité de base de données
 - L'avancée sur ce projet améliorera un outil utilisé au quotidien par nos équipes
 
 --
@@ -160,14 +171,15 @@ Créer le package d'installation pour schemacrawler.
 - Au sein d'une équipe existante, inaugurer le développement de templates de
 rapport des schemas de base de données via le moteur de template thymeleaf
 et le framework javascript D3.js, au sein de schemacrawler
-- Il y a à la fois une composante technique et artistique dans le choix du type de graphe choisi.
+- Il y a à la fois une composante technique et artistique dans le choix du type
+de graphe choisi.
 
 --
 # Liquibase
 ## Améliorer le rendu du rapport dbDoc de Liquibase
 
-Coder/contribuer un nouveau dbDoc pour liquibase, version html5, responsive, bootstrap, ...
-ou  toute proposition permettant d'améliorer l'expérience utilisateur.
+Coder/contribuer un nouveau dbDoc pour liquibase, version html5, responsive,
+bootstrap, ... ou  toute proposition permettant d'améliorer l'expérience utilisateur.
 
 --
 # Développement d'un plugin Gephi
@@ -179,19 +191,21 @@ une vue pertinente
 --
 # Pixel Art/html
 
-Créer des pages 404, 403, ... artistiques en html5, à la github ou coveralls, avec des animations.
+Créer des pages 404, 403, ... artistiques en html5, à la github ou coveralls,
+avec des animations.
 
 --
 # Plugin Rundeck
 ## Développement d'un plugin pour ftp(s)
 
-Développer (java/maven) un plugin rundeck permettant d'interagir avec un serveur ftp(s).
+Développer (java/maven) un plugin rundeck permettant d'interagir avec un
+serveur ftp(s).
 
 --
 # Plugin sonarq
 
-Développement d'un plugin custom pour sonarq permettant de disposer d'un tableau de bord dédié
-à la qualité des bases de données.
+Développement d'un plugin custom pour sonarq permettant de disposer d'un
+tableau de bord dédié à la qualité des bases de données.
 
 --
 # Plugin maven
@@ -224,13 +238,14 @@ de l'information (tableaux de bord, graphes) en se basant sur 3D.js.
 # Métriques d'application
 
 Afin d'améliorer la qualité du monitoring d'une application J2EE, développer une page
-exposant les métriques vitales (utpime, threads, ...) au format ```json``` pour consommation
-ultérieure par un web service.
+exposant les métriques vitales (utpime, threads, ...) au format ```json``` pour
+consommation ultérieure par un web service.
 
 --
 # Candidater
 
-Prendre contact par mail avec ```mairie.informatique@ville-noumea.nc``` pour lancer votre candidature.
+Prendre contact par mail avec ```mairie.informatique@ville-noumea.nc``` pour
+lancer votre candidature.
 
 
 
