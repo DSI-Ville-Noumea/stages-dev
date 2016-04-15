@@ -9,8 +9,9 @@ author:
 controls: true
 
 --
-# Développeur Stagiaire à la DSI de la Ville de Nouméa
+# Stagiaire à la DSI de la Ville de Nouméa
 ## Service Etudes et Développement
+### Nouméa Summer Of Code
 
 
 --
@@ -18,9 +19,16 @@ controls: true
 ## Pourquoi nous prenons des stagiaires
 
 * Offrir des opportunités pour apprendre de nouvelles technologies
-* Perfectionnement dans un domaine de développement
-* faire réaliser des prototypes et POCs (Proof Of Concept)
-* Favoriser le développement de l'open source, de la collaboration
+* Perfectionnement personnel du stagiaire dans un domaine de développement bénéficiant à la collectivité
+* Expérience de développement en entreprise dans un mode collaboratif
+
+--
+# Credo
+## Pourquoi nous prenons des stagiaires
+
+* Faire réaliser des prototypes et POCs (Proof Of Concept)
+* Favoriser la diffusion de l'open source
+* Contribuer à des projets
 * Encourager la créativité et l'innovation dans le développement
 
 --
@@ -30,6 +38,10 @@ controls: true
 * L'ensemble des logiciels utilisés est open source
 * La station de travail (un PC) sera une machine linux/unix à installer par le stagiaire. Il a la discrétion de la distribution/bureau sur laquelle il souhaite travailler
 * Tout travail reposera sur un code source qui sera systématiquement versionné, au quotidien, sur github
+
+--
+# Valeurs et Technologies
+
 * La rédaction du rapport/présentation sera réalisé en continu afin de disposer d'un support tout au long du stage
 * Tout code (programme, documentation, présentation) fait l'objet de releases régulières
 
@@ -55,6 +67,8 @@ controls: true
 # Ce que le stage est
 
 * Une opportunuité de créer du logiciel de manière créative, enrichissante au sein d'une équipe
+* De (faire) découvrir de nouvelles technologies ou approches
+* La production de quelque'chose de personnel et original
 
 
 --
@@ -63,12 +77,12 @@ controls: true
 
 * Le code releasé sur une repo de notre DSI : https://github.com/DSI-Ville-Noumea
 * Rapport écrit et versionné sur github, via pandoc : le document final sera compilé en pdf via LaTeX
-* Présentation : elle sera développée depuis un code source, sur github via Reveal.js, impress.js ou tout autre framework de présentation web
+* Présentation : elle sera développée depuis un code source, sur github via Reveal.js, impress.js ou tout autre framework de présentation web responsive
 
 --
 # Candidater
 ## Le CV
-* Présenter un cv : au format pdf, ou pointer directement sur votre page LinkedIn
+* Présenter un cv : au format pdf, ou pointer directement sur votre page LinkedIn renseignée en conséquence
 
 
 --
@@ -81,8 +95,13 @@ Présenter :
 * Objectifs personnels, le parcours, les motivations, vos goûts éventuels pour votre technologie de prédilection
 * Présenter les compétences actuelles
 * Les réalisations s'il y en a
-* Projets personnels de développement ou lié à la création (quelque domaine que ce soit : artistique, informatique)
-* Technologies dans lequelles vous souhaitez progresser
+
+--
+# Candidater
+## Lettre de motivation
+
+* Projets personnels de développement ou liés à la création (quelque domaine que ce soit : artistique, informatique)
+* Technologies dans lequelles vous souhaitez progresser et pourquoi
 * Objectif du stage : qu'attendez-vous de ce stage
 * Motivation pour candidater sur un sujet particulier
 * Un projet de développement personnel en lequel vous croyez et que vous souhaitez fortement voir se concrétiser
@@ -107,6 +126,7 @@ Présenter :
 * Proposer vous-même un sujet
 * Prouver la valeur du projet
 * Préparer une présentation qui vend le projet
+* Un indicateur permettant d'évaluer si l'objectif a été atteint ou pas
 
 --
 # packaging chocolately
@@ -119,23 +139,26 @@ Présenter :
 
 * Découverte de patterns de délinquance sur la voie publique en R
 * Intégration à application existante
+* Présentation des règles (pertinentes) découvertes
 
 --
-# Templates thymeleaf et D3.js
-## Collaborer au sein d'une équipe à la création de rapports de lints
+# thymeleaf, D3.js
+## Lint bases de données
 
-Contribuer au développement de templates de rapport de qualité de base de données via
+Au sein d'une équipe constitutée, contribuer au développement de templates de rapport de qualité de base de données via
 le moteur de template thymeleaf et le framework javascript D3.js.
 
 Le projet de déroulera en équipe, et sur un logiciel utilisé lors de nos développements.
+
 L'avancée sur ce projet améliorera donc un un outil utilisé au quotidien par nos équipes.
 
 --
-# Templates thymeleaf et D3.js
-## Collaborer au sein d'une équipe à la création de rapports sur les structures de base de données
+# thymeleaf et D3.js
+## Graphe structure base de données
 
-Inaugurer le développement de templates de rapport des schemas de base de données via
-le moteur de template thymeleaf et le framework javascript D3.js au sein de schemacrawler.
+Au sein d'une équipe existante, inaugurer le développement de templates de
+rapport des schemas de base de données via le moteur de template thymeleaf
+et le framework javascript D3.js, au sein de schemacrawler.
 
 Le projet de déroulera en équipe, et sur un logiciel utilisé lors de nos développements.
 L'avancée sur ce projet améliorera donc un un outil utilisé au quotidien par nos équipes.
@@ -146,12 +169,15 @@ Il y a à la fois une composante technique et artistique dans le choix du type d
 # Liquibase
 ## Améliorer le rendu du rapport dbDoc de Liquibase
 
-Coder/contribuer un nouveau dbDoc pou liquibase, vesion html cinq, responsive, bootstap, ...
+Coder/contribuer un nouveau dbDoc pour liquibase, vesion html5, responsive, bootstrap, ...
+ou  toute proposition permettant d'améliorer l'expérience utilisateur.
 
 --
 # Développement d'un plugin Gephi
 
-Développer un plugin pour Gephi qui graphe le contenu d'un Active Directory.
+- Développer un plugin pour Gephi qui graphe le contenu d'un Active Directory.
+- Jouer avec le plugin développé et travailler le rendu des graphes afin d'en dégager
+une vue pertinente.
 
 --
 # Pixel Art/html
@@ -162,6 +188,8 @@ Créer des pages 404, 403 artistiques en html5, à la github ou coveralls, avec 
 # Plugin Rundeck
 ## Développement d'un plugin pour ftp(s)
 
+Développer (java/maven) un plugun rundeck permettant d'interagir avec un serveur ftp(s).
+
 --
 # Plugin sonarq
 
@@ -171,23 +199,25 @@ Développement d'un plugin custom pour sonarq permettant de disposer d'un tablea
 --
 # Plugin maven
 
-Développement d'un plugin de reporting maven qui crée une page dédiée aux stats de downloads sur github.
+Développement d'un plugin de reporting maven qui crée une page dédiée aux
+statistique de downloads des releases sur github.
 
 --
 # Art numérique
 
-Projet mystère où le stagiaire doit proposer un projet innovant et créatif, en
-rapport avec l'art numérique, via la programmation ("Generative Art").
-Le projet fera l'objet d'une présentation lors de la candidature.
+- Ici le stagiaire doit proposer un projet innovant et créatif, en
+rapport avec l'art numérique, via la programmation ("Generative Art")
+- L'objectif à atteindre/explorer fera l'objet d'une présentation lors de la candidature
 
 --
 # Prototypage "Big Data Analytics" sur 2UDA
 
-Via 2UDA (http://2ndquadrant.com/en/resources/2uda/), découvrir des patterns sur la
-délinquance à la Ville de Nouméa afin de pouvoir faire de la prédiction.
+- Via [2UDA](http://2ndquadrant.com/en/resources/2uda/), découvrir des patterns sur la
+délinquance à la Ville de Nouméa (classification, arbre de décision, ...)
+- Appliquer ces règles sur des données frâiches afin de tester les modèles découverts
 
 --
-# Amélioration d'une application existance
+# Amélioration d'une application existante
 
 Au sein d'une application existante, développer des visualisations innovantes
 de l'information (tableaux de bord, graphes) en se basant sur 3D.js.
