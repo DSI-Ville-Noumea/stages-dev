@@ -68,7 +68,7 @@ controls: true
 
 * Une opportunuité de créer du logiciel de manière créative, enrichissante au sein d'une équipe
 * De (faire) découvrir de nouvelles technologies ou approches
-* La production de quelque'chose de personnel et original
+* La production de quelque chose de personnel et original
 
 
 --
@@ -100,7 +100,7 @@ controls: true
 ## Lettre de motivation
 
 * Projets personnels de développement ou liés à la création (quelque domaine que ce soit : artistique, informatique)
-* Technologies dans lequelles vous souhaitez progresser et pourquoi
+* Technologies dans lesquelles vous souhaitez progresser et pourquoi
 * Objectif du stage : qu'attendez-vous de ce stage
 * Motivation pour candidater sur un sujet particulier
 
@@ -166,7 +166,7 @@ et le framework javascript D3.js, au sein de schemacrawler
 # Liquibase
 ## Améliorer le rendu du rapport dbDoc de Liquibase
 
-Coder/contribuer un nouveau dbDoc pour liquibase, vesion html5, responsive, bootstrap, ...
+Coder/contribuer un nouveau dbDoc pour liquibase, version html5, responsive, bootstrap, ...
 ou  toute proposition permettant d'améliorer l'expérience utilisateur.
 
 --
@@ -185,19 +185,19 @@ Créer des pages 404, 403, ... artistiques en html5, à la github ou coveralls, 
 # Plugin Rundeck
 ## Développement d'un plugin pour ftp(s)
 
-Développer (java/maven) un plugun rundeck permettant d'interagir avec un serveur ftp(s).
+Développer (java/maven) un plugin rundeck permettant d'interagir avec un serveur ftp(s).
 
 --
 # Plugin sonarq
 
 Développement d'un plugin custom pour sonarq permettant de disposer d'un tableau de bord dédié
-à la qualité des bases de donées.
+à la qualité des bases de données.
 
 --
 # Plugin maven
 
 Développement d'un plugin de reporting ```maven``` qui crée une page dédiée aux
-statistique de downloads des releases sur github.
+statistiques de downloads des releases sur github.
 
 --
 # Art numérique
@@ -211,7 +211,7 @@ rapport avec l'art numérique, via la programmation ("Generative Art")
 
 - Via [2UDA](http://2ndquadrant.com/en/resources/2uda/), découvrir des patterns sur la
 délinquance à la Ville de Nouméa (classification, arbre de décision, ...)
-- Appliquer ces règles sur des données frâiches afin de tester les modèles découverts
+- Appliquer ces règles sur des données fraîches afin de tester les modèles découverts
 
 --
 # Amélioration d'une application existante
@@ -230,7 +230,7 @@ ultérieure par un web service.
 --
 # Candidater
 
-Pour candidater, prendre contact par mail avec ```mairie.informatique@ville-noumea.nc``` pour lancer votre candidature.
+Prendre contact par mail avec ```mairie.informatique@ville-noumea.nc``` pour lancer votre candidature.
 
 
 
