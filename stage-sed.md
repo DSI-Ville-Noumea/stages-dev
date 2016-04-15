@@ -3,7 +3,6 @@ output: index.html
 theme: sudodoki/reveal-cleaver-theme
 author:
   name: Adrien Sales
-  twitter: rastadidi
   github DSI : https://github.com/DSI-Ville-Noumea
   url: http://adriens.github.io/
 controls: true
