@@ -207,12 +207,6 @@ Développement d'un plugin custom pour sonarq permettant de disposer d'un
 tableau de bord dédié à la qualité des bases de données.
 
 --
-# Plugin maven
-
-Développement d'un plugin de reporting ```maven``` qui crée une page dédiée aux
-statistiques de downloads des releases sur github.
-
---
 # Art numérique
 
 - Ici le stagiaire doit proposer un projet innovant et créatif, en
