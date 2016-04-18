@@ -235,6 +235,11 @@ exposant les métriques vitales (utpime, threads, ...) au format ```json``` pour
 consommation ultérieure par un web service.
 
 --
+# Lecture préalable
+
+http://www.infoq.com/minibooks/scrum-xp-from-the-trenches-2
+
+--
 # Candidater
 
 Prendre contact par mail avec ```mairie.informatique@ville-noumea.nc``` pour
