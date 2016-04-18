@@ -230,7 +230,7 @@ de l'information (tableaux de bord, graphes) en se basant sur 3D.js.
 --
 # Métriques d'application
 
-Afin d'améliorer la qualité du monitoring d'une application J2EE, développer une page
+Afin d'améliorer la qualité du monitoring d'une application J2EE/Spring, développer une page
 exposant les métriques vitales (utpime, threads, ...) au format ```json``` pour
 consommation ultérieure par un web service.
 
