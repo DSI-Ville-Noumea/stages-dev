@@ -41,7 +41,7 @@ controls: true
 --
 # Valeurs et Technologies
 
-* La rédaction du rapport/présentation sera réalisés en continu afin de disposer d'un support tout au long du stage
+* La rédaction du rapport/présentation sera réalisée en continu afin de disposer d'un support tout au long du stage
 * Tout code (programme, documentation, présentation) fait l'objet de releases régulières
 
 --
